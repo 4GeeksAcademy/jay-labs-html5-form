@@ -30,3 +30,8 @@ svg {
 .card-footer {
     padding: 20px;
 }
+
+input:invalid {
+    /* border: solid 1px #f1aeb5; */
+    border: solid 1px #BBBBBB;
+  }
